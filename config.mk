@@ -291,7 +291,6 @@ PRODUCT_PACKAGES += \
 
 # Icon Data
 PRODUCT_PACKAGES += \
-    IconDataDefault \
     IconDataFive \
     IconDataFour \
     IconDataOne \
